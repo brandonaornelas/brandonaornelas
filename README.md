@@ -18,6 +18,6 @@
 
 <h2>Reach Out</h2>
 
-<a href="https://mail.google.com/mail/u/3/?ogbl#inbo">	![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a> <a href="https://www.linkedin.com/in/brandonornelas93/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/brandonornelas93/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ![Brandon Ornelas github stats](https://github-readme-stats.vercel.app/api?username=brandonaornelas&show_icons=true&hide_border=true)
