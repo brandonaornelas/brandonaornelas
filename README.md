@@ -1,4 +1,20 @@
-### Hi there 👋
+<img src="https://github.com/brandonaornelas/brandonaornelas/blob/main/rawls-bear-bull-fall-mobile.jpg" alt="Picture of Rawls Business school">
+
+<img src = "https://github.com/brandonaornelas/brandonaornelas/blob/main/IMG-0786.PNG" alt = "Logo of me" width = "200" height = "200">
+<p>Greetings! I'm Brandon Ornelas, and I'm on a continuous journey to learn, grow, and be the best I can be in the realm of technology and business management. Currently, I am pursuing a Bachelor of Business Administration in Information Technology at Texas Tech University's Rawls College of Business.
+
+My academic journey has been nothing short of enlightening. Through my coursework in Analytics and Development with Python, I've cultivated not only a basic understanding of Python but also honed my problem-solving abilities. Simultaneously, I'm exploring the intricate world of Data Base Management Systems and Data Communication and Security, expanding my expertise in database management and data communication.
+
+Before embarking on my educational pursuits, I had the privilege of gaining invaluable real-world experience. As a Construction Supervisor at Ornelas' Construction, I orchestrated the planning and execution of home remodeling projects. This role allowed me to collaborate closely with architects, clients, suppliers, and subcontractors, ensuring seamless compliance with rigorous building codes. Subsequently, I transitioned into the financial sector, working as a Bank Teller at Wells Fargo. In this role, I assisted customers with various financial transactions, provided recommendations for credit and loan products, and consistently achieved outstanding customer satisfaction ratings.
+
+My diverse background, rooted in both construction and banking, enriches my professional profile. This multifaceted experience, coupled with my unwavering commitment to ongoing education, underscores my dedication as a well-rounded professional. I bring to the table robust problem-solving skills, effective communication, and adept project management capabilities.
+
+In every endeavor, my aim is to not only excel but to continue evolving. I am steadfast in my pursuit of knowledge, eager to face new challenges, and resolute in my aspiration to make meaningful contributions in the fields of technology and business management.
+
+Let's learn, innovate, and thrive together! 💡🚀</p>
+
+
+
 <h2>DATABASES</h2>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
