@@ -1,4 +1,4 @@
-<img src="https://github.com/brandonaornelas/brandonaornelas/blob/main/rawls-bear-bull-fall-mobile.jpg" alt="Picture of Rawls Business school">
+<img src="https://github.com/brandonaornelas/brandonaornelas/blob/main/rawls-bear-bull-fall-mobile.jpg" alt="Picture of Rawls Business school">Rawls Business School at Texas Tech University</img>
 
 <img src = "https://github.com/brandonaornelas/brandonaornelas/blob/main/IMG-0786.PNG" alt = "Logo of me" width = "200" height = "200">
 <p>Greetings! I'm Brandon Ornelas, and I'm on a continuous journey to learn, grow, and be the best I can be in the realm of technology and business management. Currently, I am pursuing a Bachelor of Business Administration in Information Technology at Texas Tech University's Rawls College of Business.
